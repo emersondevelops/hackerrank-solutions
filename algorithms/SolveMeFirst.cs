@@ -1,10 +1,7 @@
-﻿// Problem #0001
-// https://www.hackerrank.com/challenges/solve-me-first/problem
-
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.IO;
-class Program
+class Solution
 {
     static int solveMeFirst(int a, int b)
     {
