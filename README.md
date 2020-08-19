@@ -26,3 +26,4 @@
 | 0 | [Day 0: Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Python](./30DaysOfCode/Python/Day0HelloWorld.py) | Easy |
 | 1 | [Day 1: Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) | [Python](./30DaysOfCode/Python/Day1DataTypes.py) | Easy |
 | 2 | [Day 2: Operators](https://www.hackerrank.com/challenges/30-operators/problem) | [Python](./30DaysOfCode/Python/Day2Operators.py) | Easy |
+| 3 | [Day 3: Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [C#](./30DaysOfCode/CSharp/30DaysOfCode/Day3IntroToConditionalStatements/Program.cs) \| [Python](./30DaysOfCode/Python/Day3IntroToConditionalStatements.py) | Easy |
