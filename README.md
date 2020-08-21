@@ -27,3 +27,5 @@
 | 1 | [Day 1: Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) | [Python](./30DaysOfCode/Python/Day1DataTypes.py) | Easy |
 | 2 | [Day 2: Operators](https://www.hackerrank.com/challenges/30-operators/problem) | [Python](./30DaysOfCode/Python/Day2Operators.py) | Easy |
 | 3 | [Day 3: Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [C#](./30DaysOfCode/CSharp/30DaysOfCode/Day3IntroToConditionalStatements/Program.cs) \| [Python](./30DaysOfCode/Python/Day3IntroToConditionalStatements.py) | Easy |
+| 4 | [Day 4: Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) | [C#](./30DaysOfCode/CSharp/30DaysOfCode/Day4ClassVsInstance/Program.cs) | Easy |
+| 5 | [Day 5: Loops](https://www.hackerrank.com/challenges/30-loops/problem) | [C#](./30DaysOfCode/CSharp/30DaysOfCode/Day5Loops/Program.cs) | Easy |
