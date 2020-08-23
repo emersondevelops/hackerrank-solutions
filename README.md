@@ -30,3 +30,20 @@
 | 4 | [Day 4: Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) | [C#](./30DaysOfCode/CSharp/30DaysOfCode/Day4ClassVsInstance/Program.cs) | Easy |
 | 5 | [Day 5: Loops](https://www.hackerrank.com/challenges/30-loops/problem) | [C#](./30DaysOfCode/CSharp/30DaysOfCode/Day5Loops/Program.cs) | Easy |
 | 6 | [Day 6: Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem) | [Python](./30DaysOfCode/Python/Day6LetsReview.py) | Easy |
+
+## C
+
+### Introduction
+
+| # | Problem | Solution | Difficulty |
+|----:|:------------------------------------------------------------ |:---------------------------------:|:---------:|
+| 1 | ["Hello World!" in C](https://www.hackerrank.com/challenges/hello-world-c/problem) | [C](./C/Introduction/HelloWorldInC.c) | Easy |
+| 2 | [Playing With Characters](https://www.hackerrank.com/challenges/playing-with-characters/problem) | [C](./C/Introduction/PlayingWithCharacters.c) | Easy |
+| 3 | [Sum and Difference of Two Numbers](https://www.hackerrank.com/challenges/sum-numbers-c/problem) | [C](./C/Introduction/SumAndDifferenceOfTwoNumbers.c) | Easy |
+| 4 | [Functions in C](https://www.hackerrank.com/challenges/functions-in-c/problem) | [C](./C/Introduction/FunctionsInC.c) | Easy |
+| 5 | [Pointers in C](https://www.hackerrank.com/challenges/pointer-in-c/problem) | [C](./C/Introduction/PointersInC.c) | Easy |
+
+### Conditionals and Loops
+
+| 1 | [Conditional Statements in C](https://www.hackerrank.com/challenges/conditional-statements-in-c/problem) | [C](./C/ConditionalsAndLoops/ConditionalStatementsInC.c) | Easy |
+| 2 | [For Loop in C](https://www.hackerrank.com/challenges/for-loop-in-c/problem) | [C](./C/ConditionalsAndLoops/ForLoopInC.c) | Easy |
