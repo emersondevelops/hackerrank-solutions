@@ -30,6 +30,7 @@
 | 4 | [Day 4: Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) | [C#](./30DaysOfCode/CSharp/30DaysOfCode/Day4ClassVsInstance/Program.cs) | Easy |
 | 5 | [Day 5: Loops](https://www.hackerrank.com/challenges/30-loops/problem) | [C#](./30DaysOfCode/CSharp/30DaysOfCode/Day5Loops/Program.cs) | Easy |
 | 6 | [Day 6: Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem) | [Python](./30DaysOfCode/Python/Day6LetsReview.py) | Easy |
+| 7 | [Day 7: Arrays](https://www.hackerrank.com/challenges/30-arrays/problem) | [Python](./30DaysOfCode/Python/Day7Arrays.py) | Easy |
 
 ## C
 
@@ -45,5 +46,7 @@
 
 ### Conditionals and Loops
 
+| # | Problem | Solution | Difficulty |
+|----:|:------------------------------------------------------------ |:---------------------------------:|:---------:|
 | 1 | [Conditional Statements in C](https://www.hackerrank.com/challenges/conditional-statements-in-c/problem) | [C](./C/ConditionalsAndLoops/ConditionalStatementsInC.c) | Easy |
 | 2 | [For Loop in C](https://www.hackerrank.com/challenges/for-loop-in-c/problem) | [C](./C/ConditionalsAndLoops/ForLoopInC.c) | Easy |
