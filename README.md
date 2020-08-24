@@ -31,6 +31,7 @@
 | 5 | [Day 5: Loops](https://www.hackerrank.com/challenges/30-loops/problem) | [C#](./30DaysOfCode/CSharp/30DaysOfCode/Day5Loops/Program.cs) | Easy |
 | 6 | [Day 6: Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem) | [Python](./30DaysOfCode/Python/Day6LetsReview.py) | Easy |
 | 7 | [Day 7: Arrays](https://www.hackerrank.com/challenges/30-arrays/problem) | [Python](./30DaysOfCode/Python/Day7Arrays.py) | Easy |
+| 8 | [Day 8: Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | [Python](./30DaysOfCode/Python/Day8DictionariesAndMaps.py) | Easy |
 
 ## C
 
