@@ -32,6 +32,7 @@
 | 6 | [Day 6: Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem) | [Python](./30DaysOfCode/Python/Day6LetsReview.py) | Easy |
 | 7 | [Day 7: Arrays](https://www.hackerrank.com/challenges/30-arrays/problem) | [Python](./30DaysOfCode/Python/Day7Arrays.py) | Easy |
 | 8 | [Day 8: Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | [Python](./30DaysOfCode/Python/Day8DictionariesAndMaps.py) | Easy |
+| 9 | [Day 9: Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem) | [Python](./30DaysOfCode/Python/Day9Recursion3.py) | Easy |
 
 ## C
 
