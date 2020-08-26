@@ -1,8 +1,8 @@
 def factorial(n):
-    result = n
-    for i in range(n, 1, -1):
-        result *= i - 1
-    return result
+    if n <= 1:
+        return 1
+    else:
+        return n * factorial(n - 1)
 
 
 n = int(input())
