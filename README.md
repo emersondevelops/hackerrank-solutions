@@ -34,6 +34,7 @@
 | 8 | [Day 8: Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | [Python](./30DaysOfCode/Python/Day8DictionariesAndMaps.py) | Easy |
 | 9 | [Day 9: Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem) | [Python](./30DaysOfCode/Python/Day9Recursion3.py) | Easy |
 | 10 | [Day 10: Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | [Python](./30DaysOfCode/Python/Day10BinaryNumbers.py) | Easy |
+| 11 | [Day 11: 2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem) | [Python](./30DaysOfCode/Python/Day112DArrays.py) | Easy |
 
 ## C
 
