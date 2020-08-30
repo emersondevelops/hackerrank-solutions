@@ -37,6 +37,7 @@
 | 11 | [Day 11: 2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem) | [Python](./30DaysOfCode/Python/Day112DArrays.py) | Easy |
 | 12 | [Day 12: Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem) | [C#](./30DaysOfCode/CSharp/Day12Inheritance/Program.cs) | Easy |
 | 13 | [Day 13: Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem) | [C#](./30DaysOfCode/CSharp/Day13AbstractClasses/Program.cs) | Easy |
+| 14 | [Day 14: Scope](https://www.hackerrank.com/challenges/30-scope/problem) | [C#](./30DaysOfCode/CSharp/Day14Scope/Program.cs) | Easy |
 
 ## C
 
