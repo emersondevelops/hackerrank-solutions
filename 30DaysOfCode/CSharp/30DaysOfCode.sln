@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day12Inheritance", "Day12In
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day13AbstractClasses", "Day13AbstractClasses\Day13AbstractClasses.csproj", "{F6D250A9-4B76-45DA-B7B6-72BA135DFDEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day14Scope", "Day14Scope\Day14Scope.csproj", "{7F9333CB-076D-46D9-84E2-46174930B782}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day14Scope", "Day14Scope\Day14Scope.csproj", "{7F9333CB-076D-46D9-84E2-46174930B782}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day15LinkedList", "Day15LinkedList\Day15LinkedList.csproj", "{92A7FE3D-DB61-4BDA-A65C-07F3CC1C93E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{7F9333CB-076D-46D9-84E2-46174930B782}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F9333CB-076D-46D9-84E2-46174930B782}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F9333CB-076D-46D9-84E2-46174930B782}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92A7FE3D-DB61-4BDA-A65C-07F3CC1C93E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92A7FE3D-DB61-4BDA-A65C-07F3CC1C93E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92A7FE3D-DB61-4BDA-A65C-07F3CC1C93E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92A7FE3D-DB61-4BDA-A65C-07F3CC1C93E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
