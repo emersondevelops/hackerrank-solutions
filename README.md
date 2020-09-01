@@ -39,6 +39,7 @@
 | 13 | [Day 13: Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem) | [C#](./30DaysOfCode/CSharp/Day13AbstractClasses/Program.cs) | Easy |
 | 14 | [Day 14: Scope](https://www.hackerrank.com/challenges/30-scope/problem) | [C#](./30DaysOfCode/CSharp/Day14Scope/Program.cs) | Easy |
 | 15 | [Day 15: Linked List](https://www.hackerrank.com/challenges/30-linked-list/problem) | [C#](./30DaysOfCode/CSharp/Day15LinkedList/Program.cs) | Easy |
+| 16 | [Day 16: Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) | [C#](./30DaysOfCode/CSharp/Day16ExceptionsStringToInteger/Program.cs) | Easy |
 
 ## C
 
