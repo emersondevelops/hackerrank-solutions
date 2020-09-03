@@ -41,6 +41,7 @@
 | 15 | [Day 15: Linked List](https://www.hackerrank.com/challenges/30-linked-list/problem) | [C#](./30DaysOfCode/CSharp/Day15LinkedList/Program.cs) | Easy |
 | 16 | [Day 16: Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) | [C#](./30DaysOfCode/CSharp/Day16ExceptionsStringToInteger/Program.cs) | Easy |
 | 17 | [Day 17: More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/problem) | [C#](./30DaysOfCode/CSharp/Day17MoreExceptions/Program.cs) | Easy |
+| 18 | [Day 18: Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks/problem) | [C#](./30DaysOfCode/CSharp/Day18QueuesAndStacks/Program.cs) | Easy |
 
 ## C
 
