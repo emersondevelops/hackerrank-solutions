@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day14Scope", "Day14Scope\Da
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day15LinkedList", "Day15LinkedList\Day15LinkedList.csproj", "{92A7FE3D-DB61-4BDA-A65C-07F3CC1C93E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day16ExceptionsStringToInteger", "Day16ExceptionsStringToInteger\Day16ExceptionsStringToInteger.csproj", "{B0F1C5C4-5693-4DBA-8570-0A031E846729}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day16ExceptionsStringToInteger", "Day16ExceptionsStringToInteger\Day16ExceptionsStringToInteger.csproj", "{B0F1C5C4-5693-4DBA-8570-0A031E846729}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day17MoreExceptions", "Day17MoreExceptions\Day17MoreExceptions.csproj", "{CF0377F4-2AA1-4981-AD1F-7063703F7AD2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{B0F1C5C4-5693-4DBA-8570-0A031E846729}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0F1C5C4-5693-4DBA-8570-0A031E846729}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0F1C5C4-5693-4DBA-8570-0A031E846729}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF0377F4-2AA1-4981-AD1F-7063703F7AD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF0377F4-2AA1-4981-AD1F-7063703F7AD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF0377F4-2AA1-4981-AD1F-7063703F7AD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF0377F4-2AA1-4981-AD1F-7063703F7AD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
