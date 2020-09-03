@@ -18,6 +18,17 @@
 |----:|:------------------------------------------------------------ |:---------------------------------:|:---------:|
 | 1 | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem) | [Python](./Python/Introduction/SayHelloWorldWithPython.py) | Easy |
 | 2 | [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem) | [Python](./Python/Introduction/PythonIfElse.py) | Easy |
+| 3 | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) | [Python](./Python/Introduction/ArithmeticOperators.py) | Easy |
+| 4 | [Python: Division](https://www.hackerrank.com/challenges/python-division/problem) | [Python](./Python/Introduction/PythonDivision.py) | Easy |
+| 5 | [Loops](https://www.hackerrank.com/challenges/python-loops/problem) | [Python](./Python/Introduction/Loops.py) | Easy |
+| 6 | [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem) | [Python](./Python/Introduction/WriteAFunction.py) | Easy |
+| 7 | [Print Function](https://www.hackerrank.com/challenges/python-print/problem) | [Python](./Python/Introduction/PrintFunction.py) | Easy |
+
+### Basic Data Types
+
+| # | Problem | Solution | Difficulty |
+|----:|:------------------------------------------------------------ |:---------------------------------:|:---------:|
+| 1 | [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | [Python](./Python/Introduction/FindTheRunnerUpScore.py) | Easy |
 
 ## 30 Days of Code
 
