@@ -28,7 +28,7 @@
 
 | # | Problem | Solution | Difficulty |
 |----:|:------------------------------------------------------------ |:---------------------------------:|:---------:|
-| 1 | [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | [Python](./Python/Introduction/FindTheRunnerUpScore.py) | Easy |
+| 1 | [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | [Python](./Python/BasicDataTypes/FindTheRunnerUpScore.py) | Easy |
 
 ## 30 Days of Code
 
@@ -53,6 +53,7 @@
 | 16 | [Day 16: Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) | [C#](./30DaysOfCode/CSharp/Day16ExceptionsStringToInteger/Program.cs) | Easy |
 | 17 | [Day 17: More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/problem) | [C#](./30DaysOfCode/CSharp/Day17MoreExceptions/Program.cs) | Easy |
 | 18 | [Day 18: Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks/problem) | [C#](./30DaysOfCode/CSharp/Day18QueuesAndStacks/Program.cs) | Easy |
+| 19 | [Day 19: Interfaces](https://www.hackerrank.com/challenges/30-interfaces/problem) | [C#](./30DaysOfCode/CSharp/Day19Interfaces/Program.cs) | Easy |
 
 ## C
 
