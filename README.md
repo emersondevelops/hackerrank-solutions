@@ -1,5 +1,7 @@
 # My solutions to problems on HackerRank
 
+This is an incomplete set of solutions. I am updating this repository as I solve more problems. Currently, I am engaged in the 30 Days of Code challenge.
+
 ## Algorithms
 
 ### Warmup
