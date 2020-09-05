@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day17MoreExceptions", "Day1
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day18QueuesAndStacks", "Day18QueuesAndStacks\Day18QueuesAndStacks.csproj", "{E1A27884-5777-4F5D-B751-7DADBA44C0FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day19Interfaces", "Day19Interfaces\Day19Interfaces.csproj", "{F73BB257-815C-4875-8D65-0EF4E71E2FC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day19Interfaces", "Day19Interfaces\Day19Interfaces.csproj", "{F73BB257-815C-4875-8D65-0EF4E71E2FC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day20Sorting", "Day20Sorting\Day20Sorting.csproj", "{C3117EE5-A50D-4F4A-8A88-2F7DE4DF7B76}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{F73BB257-815C-4875-8D65-0EF4E71E2FC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F73BB257-815C-4875-8D65-0EF4E71E2FC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F73BB257-815C-4875-8D65-0EF4E71E2FC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3117EE5-A50D-4F4A-8A88-2F7DE4DF7B76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3117EE5-A50D-4F4A-8A88-2F7DE4DF7B76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3117EE5-A50D-4F4A-8A88-2F7DE4DF7B76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3117EE5-A50D-4F4A-8A88-2F7DE4DF7B76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

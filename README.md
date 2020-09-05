@@ -54,6 +54,7 @@
 | 17 | [Day 17: More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/problem) | [C#](./30DaysOfCode/CSharp/Day17MoreExceptions/Program.cs) | Easy |
 | 18 | [Day 18: Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks/problem) | [C#](./30DaysOfCode/CSharp/Day18QueuesAndStacks/Program.cs) | Easy |
 | 19 | [Day 19: Interfaces](https://www.hackerrank.com/challenges/30-interfaces/problem) | [C#](./30DaysOfCode/CSharp/Day19Interfaces/Program.cs) | Easy |
+| 20 | [Day 20: Sorting](https://www.hackerrank.com/challenges/30-sorting/problem) | [C#](./30DaysOfCode/CSharp/Day20Sorting/Program.cs) | Easy |
 
 ## C
 
