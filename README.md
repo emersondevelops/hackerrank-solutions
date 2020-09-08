@@ -59,6 +59,7 @@ This is an incomplete set of solutions. I am updating this repository as I solve
 | 20 | [Day 20: Sorting](https://www.hackerrank.com/challenges/30-sorting/problem) | [C#](./30DaysOfCode/CSharp/Day20Sorting/Program.cs) | Easy |
 | 21 | [Day 21: Generics](https://www.hackerrank.com/challenges/30-generics/problem) | [C#](./30DaysOfCode/CSharp/Day21Generics/Program.cs) | Easy |
 | 22 | [Day 22: Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees/problem) | [C#](./30DaysOfCode/CSharp/Day22BinarySearchTrees/Program.cs) | Easy |
+| 23 | [Day 23: BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees/problem) | [C#](./30DaysOfCode/CSharp/Day23BSTLevelOrderTraversal/Program.cs) | Easy |
 
 ## C
 
